@@ -1,0 +1,1 @@
+This is just a repo to hold the code for my solutions to the MIT Intro to Programming class available through OCW. You can find more information here: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011
